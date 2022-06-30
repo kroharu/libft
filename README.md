@@ -1,8 +1,8 @@
 # Libft (Complexity 70 hours)
 <img align="right" src="https://badge42.vercel.app/api/v2/cl3enoo9k004009muhk5a94tj/project/2364392" alt="ladrian's 42 Libft Score" />
-<img src="https://github.com/bnidia/libft/blob/main/Screenshot%20from%202021-11-03%2020-40-52.png" />
+<img src="https://github.com/kroharu/libft/blob/main/Screenshot%20from%202021-11-03%2020-40-52.png" />
 
-![Text](https://github.com/bnidia/libft/blob/main/Screenshot%20from%202021-11-10%2022-57-36.png)
+![Text](https://github.com/kroharu/libft/blob/main/Screenshot%20from%202021-11-10%2022-57-36.png)
 
 ### Contents
 * [What is the project libft?](#What-is-the-project-libft)
