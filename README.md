@@ -1,3 +1,5 @@
+_This is a **21 School/Ecole 42** Project_
+
 # Libft (Complexity 70 hours)
 <img align="right" src="https://badge42.vercel.app/api/v2/cl3enoo9k004009muhk5a94tj/project/2364392" alt="ladrian's 42 Libft Score" />
 <img src="https://github.com/kroharu/libft/blob/main/Screenshot%20from%202021-11-03%2020-40-52.png" />
